@@ -1,4 +1,4 @@
-# Choregraphy Pattern - Code sample
+# Choreography Pattern - Code sample
 
 This code sample contains a set of services designed to show how to implement the [choreography pattern](https://docs.microsoft.com/azure/architecture/patterns/choreography) using a [Drone Delivery app](https://github.com/mspnp/microservices-reference-implementation). These services run as a microservices in an [Azure Kubernetes Service](https://docs.microsoft.com/en-us/azure/aks/) cluster.
 
